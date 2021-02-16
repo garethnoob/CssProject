@@ -1,6 +1,15 @@
 h1 {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    color: mediumaquamarine;
-    font-size: 32pt;
+    background-image: url('bg1.jpg')  
+}
+
+h2 {
+    background-color: orangered;
+}
+
+h3 {
+    border: 4mm ridge rgb(240, 75, 150);
+}
+
+h4 {
+    cursor: cell;
 }
