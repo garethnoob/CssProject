@@ -35,3 +35,19 @@ h6 {
     list-style: georgian inside url('cross.svg');
     font-size: 32pt;
 }
+
+
+li:hover {
+    color: #ff3028;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
