@@ -30,3 +30,8 @@ h6 {
 .line-above {
     text-decoration: overline #ff3028;
 }
+
+.list {
+    list-style: georgian inside url('cross.svg');
+    font-size: 32pt;
+}
